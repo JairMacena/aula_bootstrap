@@ -1,5 +1,4 @@
 # aula_bootstrap
-Projeto desenvolvido como aula prática no curso de Bootstrap da Digital Innovation One.
 
 ### O que é Bootstrap?
 
